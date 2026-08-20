@@ -1,0 +1,9 @@
+Model: 4-stream (RGB+ELA+DCT+Noise), gated fusion, Lovász loss
+Cross-domain test: DocTamper-FCD (Noisy Office Dataset)
+Test images: 1000
+Pixel-AUC (5M-pixel sample): 0.9917
+Best threshold: 0.35
+Pixel-F1 at best threshold: 0.9125
+Pixel-F1 at 0.5 threshold: 0.9096
+Pixel-IoU at 0.5 threshold: 0.8342
+Accuracy at 0.5 threshold: 0.9944

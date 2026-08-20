@@ -1,0 +1,9 @@
+Model: 4-stream (RGB+ELA+DCT+Noise), gated fusion, Lovász loss
+Checkpoint epoch: 9 (of 10 planned; final epoch not completed due to GPU quota constraints)
+Test images: 15000
+Pixel-AUC (5M-pixel sample): 0.9975
+Best threshold: 0.60
+Pixel-F1 at best threshold: 0.9343
+Pixel-F1 at 0.5 threshold: 0.9336
+Pixel-IoU at 0.5 threshold: 0.8755
+Accuracy at 0.5 threshold: 0.9977

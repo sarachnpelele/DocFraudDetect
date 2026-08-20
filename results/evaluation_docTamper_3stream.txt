@@ -1,0 +1,8 @@
+Checkpoint epoch loaded: 10
+Test images: 15000
+Pixel-AUC (5M-pixel sample): 0.9905
+Best threshold: 0.90
+Pixel-F1 at best threshold: 0.4838
+Pixel-F1 at 0.5 threshold: 0.3527
+Pixel-IoU at 0.5 threshold: 0.2141
+Accuracy at 0.5 threshold: 0.9379

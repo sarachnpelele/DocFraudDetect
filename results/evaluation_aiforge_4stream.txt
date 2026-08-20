@@ -1,0 +1,9 @@
+Model: 4-stream (RGB+ELA+DCT+Noise), gated fusion, Lovász loss
+Checkpoint epoch: 9 (of 10 planned)
+Tested on: AIForge-Doc TestingSet (812 images)
+Pixel-AUC (5M-pixel sample): 0.9954
+Best threshold: 0.50
+Pixel-F1 at best threshold: 0.9150
+Pixel-F1 at 0.5 threshold: 0.9150
+Pixel-IoU at 0.5 threshold: 0.8434
+Accuracy at 0.5 threshold: 0.9982

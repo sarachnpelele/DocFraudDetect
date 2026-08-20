@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./streams",
+        "./local_training"
+    ]
+}

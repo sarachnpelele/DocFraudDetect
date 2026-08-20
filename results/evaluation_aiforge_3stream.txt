@@ -1,0 +1,8 @@
+Model: 3-stream (RGB+ELA+DCT), trained only on DocTamper
+Tested on: AIForge-Doc TestingSet (812 images), never seen during training
+Pixel-AUC (5M-pixel sample): 0.7378
+Best threshold: 0.05
+Pixel-F1 at best threshold: 0.0519
+Pixel-F1 at 0.5 threshold: 0.0465
+Pixel-IoU at 0.5 threshold: 0.0238
+Accuracy at 0.5 threshold: 0.9142
